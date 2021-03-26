@@ -1,6 +1,7 @@
 # Contributors
 
 - [Stefan Kleinhans] (https://github.com/Stefan043)
+- [Sebastian Marius] (https://github.com/SebastianMarius)
 - [Zhi King](https://github.com/zyj1022)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [Toihir Halim](https://github.com/toihirhalim)
